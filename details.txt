@@ -1,1 +1,2 @@
 this is a test details file for forking practice.
+this is the newly added 2nd line.
